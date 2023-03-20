@@ -1,0 +1,1 @@
+﻿await CSharpCrawl.CrawlAsync(numberOfURLs: 100);
